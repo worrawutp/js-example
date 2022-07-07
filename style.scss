@@ -6,3 +6,19 @@
   color: #2c3e50;
   margin-top: 60px;
 }
+
+#wallet {
+  display: flex;
+  flex-wrap: wrap;
+  width: 720px;
+  margin: 0 auto;
+
+  img {
+    width: 100%;
+  }
+
+  .bill,
+  .coin {
+    width: 100px;
+  }
+}
